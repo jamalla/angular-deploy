@@ -6,6 +6,6 @@
 export const environment = {
   production: false,
   env: 'dev',
-  apiUrl: 'http://shangyilim-inventory.azurewebsites.net/api/',
+  apiUrl: 'http://inventroy-jamzaw.azurewebsites.net/api/',
   title: 'NihonFood'
 };
